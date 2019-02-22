@@ -6,7 +6,7 @@
 ###URL: http://www.tapijtenlabelle.com
 #[LABELLE](http://www.tapijtenlabelle.com)
 
-![Home Page](resources/screenshot_homepage.png "too much white space") 
+![Home Page](resources/Screenshot_homepage.png "too much white space") 
 # Does it get regular updates ?
 No regular updates.
 
