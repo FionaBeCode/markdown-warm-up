@@ -66,7 +66,7 @@ There is also no *email* available on their contact information.
 
 # Make a list with the top three things you would change first (and explain why those three specifically)
 # Suggestions
-__Home Page__ This could profile the store better with  'FrontDoor' image.
+__Home Page__ This could profile the store better with  'Front Door' image.
 
 1. Photo of Building
 2. Link to [**Google maps**](https://www.google.com/maps) for building location, allowing customers to find them, via the app
