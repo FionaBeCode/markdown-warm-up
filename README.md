@@ -3,7 +3,7 @@
 # What website did you find (url, name,...)
 **Carpet Shop website**
 ## Name: Binnenhuisinrichting LABELLE 
-###URL: http://www.tapijtenlabelle.com
+### URL: http://www.tapijtenlabelle.com
 #[LABELLE](http://www.tapijtenlabelle.com)
 
 ![Home Page](resources/Screenshot_homepage.png "too much white space") 
@@ -26,7 +26,7 @@ http://www.tapijtenlabelle.com/verf.html
 * __Behang__ October 24, 2018, 5:38:22 PM GMT+2
 http://www.tapijtenlabelle.com/behang.html
 
-* __Vloerbeleding__ October 24, 2018, 5:39:41 PM GMT+2
+* __Vloerbekleding__ October 24, 2018, 5:39:41 PM GMT+2
 http://www.tapijtenlabelle.com/vloerbekleding.html
 
 # How did you find it ?
@@ -49,21 +49,26 @@ The tabs do correctly link to another html location, however the pages are absce
 The most information appears on their fourth tab 'Behang'
 Where finally the opening hours and address is shown. 
 
-Visual of photos, cramped and cluttered no whitespace 
+Visual of photos, cramped and cluttered **no whitespace** 
+
 ![Home Page](resources/behang_screenshot.png "The lack of white space") 
  
 
 # Is this website active on social media ?
 No
+
 This appears to have no linked to __instagram__ or __facebook__. 
+
 The Presence of social media is missing.
+
 There is also no email available on their contact information.
 
 # Make a list with the top three things you would change first (and explain why those three specifically)
-#Suggestions
-__Home Page__ This could profile the store better with  'FrontDoor'image.
+# Suggestions
+__Home Page__ This could profile the store better with  'FrontDoor' image.
+
 1. Photo of Building
-2. Link to google maps for building location
-3. icons or photo image as hyperlinks to link the different departments
+2. Link to [**Google maps**](https://www.google.com/maps) for building location, allowing customers to find them, via the app
+3. provide icons or photo image as hyperlinks to link the different departments
 
 	
