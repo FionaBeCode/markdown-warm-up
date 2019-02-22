@@ -55,13 +55,14 @@ Visual of photos, cramped and cluttered **no whitespace**
  
 
 # Is this website active on social media ?
+
 No
 
 This appears to have no linked to __instagram__ or __facebook__. 
 
-The Presence of social media is missing.
+The Presence of social media is *missing*.
 
-There is also no email available on their contact information.
+There is also no *email* available on their contact information.
 
 # Make a list with the top three things you would change first (and explain why those three specifically)
 # Suggestions
@@ -69,6 +70,6 @@ __Home Page__ This could profile the store better with  'FrontDoor' image.
 
 1. Photo of Building
 2. Link to [**Google maps**](https://www.google.com/maps) for building location, allowing customers to find them, via the app
-3. provide icons or photo image as hyperlinks to link the different departments
+3. Provide icons or photo image as hyperlinks to link the different departments
 
 	
